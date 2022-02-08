@@ -1,0 +1,35 @@
+nav {
+    height: 70px;
+    padding:5%;
+    background-color:#d64161;
+}
+.fotoColumna {
+    width: 300px;
+    height: 200px;
+
+} 
+
+.btn{
+    color:#d57c10
+}
+
+
+body{
+    background-color: #feb13653;
+}
+
+
+/* .columna {
+    background-color: #f74e73ba;
+} */
+
+.my-5 {
+    background-color: #c579a15e;
+}
+
+.bg-vanilla{background-color: rgb(252,252,157);}
+
+.navbar{z-index: 99;
+    color:#E855A2}
+
+.btn {background-color: #a72f6d;}
